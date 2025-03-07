@@ -8,6 +8,8 @@
 6.interaksi comment
 7.like story
 8.coba iklan //ini di tambahkan untuk mencoba conflict
+9.penawaran langsung ke toko //ini dtambahkan oleh Cobafitur1
+10.sewa ambasador //ini dtiambahkan CobaFitur1
 
 //lalu simpan/commit 
 
