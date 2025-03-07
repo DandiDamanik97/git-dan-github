@@ -3,6 +3,11 @@ Resolusi
 1. Konsisten kelola sosial media
 2. edit 1 video/foto perhari
 3. upload 1 video/foto perhari
+4. interaksi ke 100 orang perhari //ini contoh yang di edit(penambahan)
+5. buat live sekali seminggu //ini juga yang di edit
 
 //untuk menyimpannya pilih commit changes
 //lalu buat nama comment commit nya dan descripsi nya 
+
+//untuk edit file => click file yang mau di edit lalu pilih edit file
+//setelah di edit//di save dengan commit changes dan buat comment commitnya serta deskripsi
