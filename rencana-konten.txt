@@ -1,4 +1,5 @@
 //ini branch baru dengan nama file baru rencana konten
+//harusnya isi file masiih sama seperti dii main dan perubahan CobaFitur1 tidak masuk kesini
 
 1.edit video yang dengan musik tren
 2.buat video tidka panjang dan tidak pendek
@@ -8,6 +9,8 @@
 6.interaksi comment
 7.like story
 8.coba iklan //ini di tambahkan untuk mencoba conflict
+9.masuk ke marketplace //dan Cobafitur2 menambahkan ini
+10.buat Shopee,tiktok,dan tokped //ini juga ditambahkan cobafitur2
 
 //lalu simpan/commit 
 
