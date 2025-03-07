@@ -10,6 +10,7 @@
 8.coba iklan //ini di tambahkan untuk mencoba conflict
 9.penawaran langsung ke toko //ini dtambahkan oleh Cobafitur1
 10.sewa ambasador //ini dtiambahkan CobaFitur1
+11.mealalui email//kemudian ditambahkan lagi oleh CobaFitur1
 
 //lalu simpan/commit 
 
