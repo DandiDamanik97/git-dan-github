@@ -1,0 +1,8 @@
+//buat file=>pilih add=> pilih new file => buat nama file=> buat isi file seperti dibawah ini
+Resolusi
+1. Konsisten kelola sosial media
+2. edit 1 video/foto perhari
+3. upload 1 video/foto perhari
+
+//untuk menyimpannya pilih commit changes
+//lalu buat nama comment commit nya dan descripsi nya 
