@@ -7,7 +7,7 @@
 5.edit foto yang menarik dengan canva/corel
 6.interaksi comment
 7.like story
-
+8.coba iklan //ini di tambahkan untuk mencoba conflict
 
 //lalu simpan/commit 
 
