@@ -4,7 +4,7 @@ Resolusi
 2. edit 1 video/foto perhari
 3. upload 1 video/foto perhari
 4. interaksi ke 100 orang perhari //ini contoh yang di edit(penambahan)
-5. buat live sekali seminggu //ini juga yang di edit
+5.membuat unboxing barang // tadinya no 5 sudah ada lalu dihapus dan di buat baru lagi
 
 //untuk menyimpannya pilih commit changes
 //lalu buat nama comment commit nya dan descripsi nya 
